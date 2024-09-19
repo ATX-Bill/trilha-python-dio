@@ -4,3 +4,13 @@
 [2023-10-04 20:00:03] FunÃ§Ã£o 'criar_conta' executada com argumentos (1, [], []) e {}. Retornou None
 [2023-10-04 20:00:14] FunÃ§Ã£o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('2')>],) e {}. Retornou None
 [2023-10-04 20:05:27] FunÃ§Ã£o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('Chappie', '3')>],) e {}. Retornou None
+[2024-09-19 05:47:57] Função 'sacar' executada com argumentos ([],) e {}. Retornou None
+[2024-09-19 05:49:34] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None
+[2024-09-19 05:49:59] Função 'depositar' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None
+[2024-09-19 05:50:26] Função 'depositar' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None
+[2024-09-19 05:50:43] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None
+[2024-09-19 05:51:02] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('teste silva', '01234567890')>], [<ContaCorrente: ('0001', '1', 'teste silva')>]) e {}. Retornou None
+[2024-09-19 05:51:38] Função 'depositar' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None
+[2024-09-19 05:52:04] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None
+[2024-09-19 05:52:15] Função 'sacar' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None
+[2024-09-19 05:52:30] Função 'sacar' executada com argumentos ([<PessoaFisica: ('teste silva', '01234567890')>],) e {}. Retornou None

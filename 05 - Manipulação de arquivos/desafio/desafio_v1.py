@@ -108,7 +108,7 @@ class Conta:
             self._saldo += valor
             print("\n=== Depósito realizado com sucesso! ===")
         else:
-            print("\n@@@ Operação falhou! O valor informado é inválido. @@@")
+            print("\n@@@ Operação falhou! O valor informado é inválido. s@@@")
             return False
 
         return True
